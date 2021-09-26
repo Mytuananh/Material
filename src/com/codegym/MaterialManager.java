@@ -1,4 +1,4 @@
-package material;
+package com.codegym;
 
 import material.CrispyFlour;
 import material.Discount;

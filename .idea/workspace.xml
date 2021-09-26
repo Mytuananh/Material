@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ad8bbdd-ec92-4d3d-a49e-d8052b39bc10" name="Changes" comment="" />
+    <list default="true" id="5ad8bbdd-ec92-4d3d-a49e-d8052b39bc10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/CrispyFlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/CrispyFlour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/MaterialManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/MaterialManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Meat.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ygoUD4AglKXVIx4S3lq1aKVxRO" />
   <component name="ProjectView">
@@ -91,10 +101,22 @@
       <option name="presentableId" value="Default" />
       <updated>1632682606533</updated>
       <workItem from="1632682607662" duration="4000" />
+      <workItem from="1632683209678" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

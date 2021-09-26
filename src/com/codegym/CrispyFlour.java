@@ -1,4 +1,4 @@
-package material;
+package com.codegym;
 
 import java.time.LocalDate;
 
